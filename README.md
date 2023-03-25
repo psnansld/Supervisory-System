@@ -1,2 +1,2 @@
 # Supervisory-System
-Java + Mysql + Swing 小组作业分工管理系统
+Springboot + vue3 + 微信小程序开发 电商商城管理系统
